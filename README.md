@@ -11,28 +11,28 @@
 
 ## 🧰 Tecnologías que uso
 
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
-    <br>
-    <span style="font-size: 20px; color:#00eaff;">Java</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" />
-    <br>
-    <span style="font-size: 20px; color:#00eaff;">MySQL</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
-    <br>
-    <span style="font-size: 20px; color:#00eaff;">HTML5</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-    <br>
-    <span style="font-size: 20px; color:#00eaff;">
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
+      <b>MySQL</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
 
 >────────────────────────────────────────────
 
