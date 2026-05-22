@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Abel Garcia Nuñez
 
-![Banner](https://img.shields.io/badge/Abel_Garcia_Nuñez-Cyber_Developer-8A2BE2?style=for-the-badge&logo=neovim&logoColor=00eaff&labelColor=1a1a1a)
+![Banner](https://img.shields.io/badge/Abel_Garcia_Nuñez-Software_Developer-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1e1e1e)
 
 ### 🚀 Desarrollador en crecimiento, aprendiendo y construyendo proyectos reales  
 ### 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma
