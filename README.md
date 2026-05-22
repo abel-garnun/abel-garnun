@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"/>
-  <br><b style="color:#00eaff;">JAVA</b>
+  <b style="color:#00eaff;">JAVA</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80"/>
   <br><b style="color:#00eaff;">MySQL</b>
