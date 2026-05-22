@@ -10,8 +10,7 @@
 >────────────────────────────────────────────
 
 ## 🧰 Tecnologías que uso
-
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br>
@@ -33,6 +32,7 @@
     </td>
   </tr>
 </table>
+
 
 >────────────────────────────────────────────
 
