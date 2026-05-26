@@ -2,12 +2,12 @@
 
 ![Banner](https://img.shields.io/badge/Abel_Garcia_Nuñez-Cyber_Developer-8A2BE2?style=for-the-badge&logo=neovim&logoColor=00eaff&labelColor=1a1a1a)
 
->────────────────────────────────────────────
+>───────────────────────────────────────────────
 
 ### 🚀 Desarrollador en crecimiento, aprendiendo y construyendo proyectos reales  
 ### 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
->────────────────────────────────────────────
+>───────────────────────────────────────────────
 
 ## 🧰 Tecnologías que uso
 <table align="center" border="0">
@@ -34,14 +34,14 @@
 </table>
 
 
->────────────────────────────────────────────
+>───────────────────────────────────────────────
 
 ## 📌 Sobre mí
 - Me gusta crear sistemas completos con Java OOP  
 - Trabajo con bases de datos y procedimientos almacenados  
 - Me interesa mejorar cada día como desarrollador  
 
->────────────────────────────────────────────
+>───────────────────────────────────────────────
 
 ## 📫 Contacto
 📧 abelgarnu@gmail.com
