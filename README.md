@@ -41,7 +41,7 @@ Me gusta aprender nuevas tecnologías, resolver problemas y construir aplicacion
 ### 💻 Lenguajes y desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,js&theme=dark" alt="Java, HTML5 y JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js&theme=dark" alt="Java, Kotlin y JavaScript"/>
 </p>
 
 ### 🗄️ Bases de datos
