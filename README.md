@@ -60,6 +60,8 @@ Me gusta aprender nuevas tecnologías, resolver problemas y construir aplicacion
 
 ---
 
+---
+
 ## 🎯 En qué estoy trabajando
 
 <table>
@@ -75,10 +77,16 @@ Me gusta aprender nuevas tecnologías, resolver problemas y construir aplicacion
   </tr>
   <tr>
     <td width="50%">
+      <h3>📱 Desarrollo Android con Kotlin</h3>
+      <p>Desarrollo de aplicaciones Android con Kotlin y Android Studio, trabajando con interfaces, componentes y lógica de aplicación.</p>
+    </td>
+    <td width="50%">
       <h3>🌐 Desarrollo web</h3>
       <p>Aprendizaje y práctica con HTML5 y JavaScript.</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3>🚀 Crecimiento continuo</h3>
       <p>Práctica constante, nuevos retos y mejora progresiva de mis proyectos.</p>
     </td>
