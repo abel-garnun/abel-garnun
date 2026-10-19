@@ -21,16 +21,17 @@
 
 ---
 
+---
+
 ## 🚀 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me apasiona la programación y el desarrollo de software.
-
-Me gusta aprender nuevas tecnologías, resolver problemas y construir aplicaciones cada vez más completas, cuidando tanto su funcionamiento como la calidad del código.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me apasiona la programación y el desarrollo de software. Me gusta aprender nuevas tecnologías, resolver problemas y construir aplicaciones cada vez más completas, cuidando tanto su funcionamiento como la calidad del código.
 
 - ☕ Desarrollo aplicaciones con **Java y programación orientada a objetos**.
+- 📱 Aprendo a desarrollar **aplicaciones Android con Kotlin y Android Studio**.
 - 🗄️ Trabajo con **bases de datos MySQL** y procedimientos almacenados.
-- 🌐 Estoy aprendiendo tecnologías de desarrollo web.
-- 📚 Busco mejorar continuamente y aplicar lo aprendido en proyectos reales.
+- 🌐 Aprendo y practico tecnologías de desarrollo web como **HTML5 y JavaScript**.
+- 📚 Busco mejorar continuamente, afrontar nuevos retos y aplicar lo aprendido en proyectos reales.
 
 ---
 
