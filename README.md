@@ -49,7 +49,7 @@ Me gusta aprender nuevas tecnologías, resolver problemas y construir aplicacion
 <p>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5"/>
 </p>
-#### 🗄️ Bases de datos
+### 🗄️ Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
